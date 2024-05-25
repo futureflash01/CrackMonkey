@@ -35,6 +35,7 @@ It makes it not able to extract the password for whatever reason. I suspect it's
 Depending on how you set up your Visual Studio keyboard shortcuts, the default one is 'CTRL + SHIFT + B'. This just compiles 
 the executable, but doesn't run it. You need to open your project folder and run the executable in the 'bin/Debug' or 'bin/Release' folder. It's annoying having to do that everytime, but that's the only solution
 that I can think of at the moment.
+
 -----------------------------------------------------------------------------------------------------------------------------
 ## Bug Reports:
 To report any bugs/features you would like to be added, just email me at: btdbugreports@gmail.com
