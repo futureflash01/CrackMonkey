@@ -1,4 +1,4 @@
-# CrackMonkey
+# CrackMonkey (Remastered)
 
 CrackMonkey Remastered (CMR) is a program that cracks and extracts the encrypted password for the 'data.jet' file in BTD Battles.
 
