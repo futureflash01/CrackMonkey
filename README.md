@@ -32,6 +32,10 @@ For some reason, opening this project in Visual Studio and clicking the 'Start' 
 It makes it not able to extract the password for whatever reason. I suspect it's the threading/debugging attachment, which might slow the program down enough to where it doesn't have time to correctly read the output from previous commands.
 
 ## To Fix the Issue:
-Depending on how you set up your Visual Studio keyboard shortcuts, the default one is 'CTRL + SHIFT + B'. This just builds
-the executable, but doesn't run it. You need to open your project folder and run the executable in the 'bin/Debug' or 'bin/Release' folder. It's annoying to do it everytime but that's the only fix
-that i can think of. I don't know why it does that :(
+Depending on how you set up your Visual Studio keyboard shortcuts, the default one is 'CTRL + SHIFT + B'. This just compiles 
+the executable, but doesn't run it. You need to open your project folder and run the executable in the 'bin/Debug' or 'bin/Release' folder. It's annoying having to do that everytime, but that's the only solution
+that I can think of at the moment.
+-----------------------------------------------------------------------------------------------------------------------------
+## Bug Reports:
+To report any bugs/features you would like to be added, just email me at: btdbugreports@gmail.com
+I will respond to your emails and do my best to implement you may ask for. Maybe even add an easter egg that has your name on it. Who knows? Just ask anyway!
