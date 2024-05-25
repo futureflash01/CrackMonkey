@@ -39,4 +39,4 @@ that I can think of at the moment.
 -----------------------------------------------------------------------------------------------------------------------------
 ## Bug Reports:
 To report any bugs/features you would like to be added, just email me at: btdbugreports@gmail.com
-I will respond to your emails and do my best to implement you may ask for. Maybe even add an easter egg that has your name on it. Who knows? Just ask anyway!
+I will respond to your emails and do my best to implement your suggestions. Maybe I'll even add an easter egg that has your name on it. Who knows? Just ask anyway!
