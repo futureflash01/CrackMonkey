@@ -98,7 +98,7 @@ namespace CrackMonkeyRemastered
         }
         private void ReadPassword()
         {
-            string fullHashPath = Environment.CurrentDirectory + @"\src\john.pot";
+            string fullHashPath = currentPath + @"\src\john.pot";
             using (StreamReader inputFile = new StreamReader(fullHashPath))
             {
                 string fullHashPath2 = inputFile.ReadToEnd();
