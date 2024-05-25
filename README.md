@@ -6,7 +6,8 @@ This program is only intended for modding purposes only, however I do not condon
 If you result in your BTD Battles account getting banned, I do not take responsibility!
 
 
-P.S: It's called remastered because I tried making this program a few years ago and I forgot about it. Also, this program is a successor to 'BTDPassExtractor' which was a program I made that was used by a lot of Redditors in the BTD Modding community!
+P.S: It's called remastered because I tried making this program a few years ago and I gave up and eventually forgot about it. I finally rekindled my motivation to program again and cooked up this beautiful piece of software (not really).
+Also, this program is a successor to 'BTDPassExtractor' which was a program I made that was used by a lot of Redditors in the BTD Modding community!
 
 Source: https://www.reddit.com/r/BloonsTDBattles/comments/ejur02/release_btd_battles_password_extractor_for_modding/
 
