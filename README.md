@@ -11,3 +11,11 @@ Source: https://www.reddit.com/r/BloonsTDBattles/comments/ejur02/release_btd_bat
 This program was made possible using the following programs:
 * OpenWall's 'John the Ripper': https://www.openwall.com/john/
 * glmcdona's 'strings2': https://github.com/glmcdona/strings2
+
+-----------------------------------------------------------------------------------------------------------------------------
+## READ BEFORE COMPILING:
+For some reason, opening this project in Visual Studio and clicking the 'Start' button causes issues.
+
+## To Fix Issue:
+Depending on how you set your VS Studio keyboard shortcuts, the default one is 'CTRL + SHIFT + B'. This just builds
+the executable, but doesn't run it. You need to actually run it from your project directory inside the 'bin/Debug' folder

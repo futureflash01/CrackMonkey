@@ -5,13 +5,22 @@ using System.Drawing;
 using System.IO;
 using System.Linq;
 using System.Runtime.InteropServices;
+using System.Runtime.InteropServices.ComTypes;
 using System.Text;
+using System.Threading;
 using System.Timers;
 using System.Windows.Forms;
 namespace CrackMonkeyRemastered
 {
     public partial class CrackMonkeyForm : Form
     {
+        // READ BEFORE COMPILING:
+        // For some reason, opening this project in Visual Studio and clicking the 'Start' button causes issues. To fix:
+        // Depending on how you set your VS Studio keyboard shortcuts, the default one is 'CTRL + SHIFT + B'. This just builds
+        // the executable, but doesn't run it. You need to actually run it from your project directory inside the 'bin/Debug' folder
+
+
+        
         // Declare necessary public variables
         public string btdVersion;
         public string btdPath;
@@ -83,7 +92,11 @@ namespace CrackMonkeyRemastered
             using (StreamReader inputFile = new StreamReader(fullHashPath))
             {
                 string fullHashPath2 = inputFile.ReadToEnd();
-                btdPassword = fullHashPath2.Substring(fullHashPath2.Length - 17);
+                // Essentially, the final hash outputs to a file called 'john.pot'. However, it's full of junk, and we only want to extract the second line of the file.
+                // This line contains the full hash
+                string trimHash = File.ReadLines(fullHashPath).Skip(1).Take(1).First();
+                // Before we set the 'btdPassword' string, the extracted hash from above is still too long. We only need the last 16 characters of it. This part is the actual cracked password
+                btdPassword = trimHash.Substring(trimHash.Length - 16);
             }
         }
         private void CleanUp()
@@ -220,6 +233,7 @@ namespace CrackMonkeyRemastered
             Process.Start("https://www.youtube.com/@FutureFlash");
         }
     }
+
     internal static class Extensions
     {
         // This is some code I found on StackOverflow (let's be real we have all stolen code from this website at least once)
