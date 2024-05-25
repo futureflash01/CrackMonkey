@@ -28,7 +28,7 @@ This program was made possible using the following programs:
 
 -----------------------------------------------------------------------------------------------------------------------------
 ## READ BEFORE COMPILING:
-For some reason, opening this project in Visual Studio and clicking the 'Start' breaks the program!
+For some reason, opening this project in Visual Studio and clicking the 'Start' button breaks the program!
 It makes it not able to extract the password for whatever reason. I suspect it's the threading/debugging attachment, which might slow the program down enough to where it doesn't have time to correctly read the output from previous commands.
 
 ## To Fix the Issue:
