@@ -63,11 +63,13 @@ namespace CrackMonkeyRemastered
         {
             Process zip2JohnProcess = new Process();
             zip2JohnProcess.StartInfo.FileName = currentPath + @"\src\zip2john.exe";
-            zip2JohnProcess.StartInfo.Arguments = currentPath + @"\src\datajetCOPY.jet";
+            // You have NO IDEA how long this took me to figure out. Double quotes HAVE to be added to the arguments. Escaping the quotes was a nightmare...
+            zip2JohnProcess.StartInfo.Arguments = @"""" + currentPath + @"\src\datajetCOPY.jet""";
             zip2JohnProcess.StartInfo.UseShellExecute = false;
             zip2JohnProcess.StartInfo.RedirectStandardOutput = true;
             zip2JohnProcess.StartInfo.CreateNoWindow = true;
             zip2JohnProcess.Start();
+
             string cmdOutput = zip2JohnProcess.StandardOutput.ReadToEnd();
             using (StreamWriter outputFile = new StreamWriter(currentPath + @"\src\data.hash"))
             {
@@ -79,7 +81,8 @@ namespace CrackMonkeyRemastered
         {
             Process crackPasswordProcess = new Process();
             crackPasswordProcess.StartInfo.FileName = currentPath + @"\src\john.exe";
-            crackPasswordProcess.StartInfo.Arguments = $@"--wordlist={currentPath}\src\strings.txt " + $@"{currentPath}\src\data.hash";
+            // You have NO IDEA how long this took me to figure out. Double quotes HAVE to be added to the arguments. Escaping the quotes was a nightmare...
+            crackPasswordProcess.StartInfo.Arguments = @"--wordlist=" + @"""" + currentPath + @"\src\strings.txt""" + " " + @"""" + currentPath + @"\src\data.hash""";
             crackPasswordProcess.StartInfo.UseShellExecute = false;
             crackPasswordProcess.StartInfo.RedirectStandardOutput = true;
             crackPasswordProcess.StartInfo.CreateNoWindow = true;
