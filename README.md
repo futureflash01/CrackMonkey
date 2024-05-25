@@ -11,6 +11,15 @@ P.S: It's called remastered because I tried making this program a few years ago 
 Source: https://www.reddit.com/r/BloonsTDBattles/comments/ejur02/release_btd_battles_password_extractor_for_modding/
 
 -----------------------------------------------------------------------------------------------------------------------------
+## How to Use:
+1. Open CrackMonkey Remastered
+2. Open BTD Battles (Steam or Windows Store version, it doesn't matter)
+3. Wait until the "Ninja Kiwi®" logo appears and click 'Start'
+4. Around 5-7 seconds later (on average), your password will be shown on screen and copied to your clipboard
+
+By the way, doesn't matter which one you launch first. The program will detect if BTD Battles is already running or not!
+
+-----------------------------------------------------------------------------------------------------------------------------
 ## Credits
 This program was made possible using the following programs:
 * OpenWall's 'John the Ripper': https://www.openwall.com/john/
