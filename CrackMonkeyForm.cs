@@ -113,7 +113,6 @@ namespace CrackMonkeyRemastered
         }
         private void CleanUp()
         {
-            string currentPath = Environment.CurrentDirectory;
             string[] AppFiles =
             {
                 "datajetCOPY.jet",
