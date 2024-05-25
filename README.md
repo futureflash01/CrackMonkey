@@ -17,7 +17,7 @@ Source: https://www.reddit.com/r/BloonsTDBattles/comments/ejur02/release_btd_bat
 3. Wait until the "Ninja Kiwi®" logo appears and click 'Start'
 4. Around 5-7 seconds later (on average), your password will be shown on screen and copied to your clipboard
 
-By the way, doesn't matter which one you launch first. The program will detect if BTD Battles is already running or not!
+By the way, doesn't matter which app you launch first. The program will detect if BTD Battles is already running or not!
 
 -----------------------------------------------------------------------------------------------------------------------------
 ## Credits
