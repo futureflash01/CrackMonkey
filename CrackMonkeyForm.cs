@@ -20,7 +20,7 @@ namespace CrackMonkeyRemastered
         // program down enough to where it doesn't have time to correctly read the output from previous commands.
         
         // To Fix the Issue:
-        // Depending on how you set up your Visual Studio keyboard shortcuts, the default one is 'CTRL + SHIFT + B'. This just compiles 
+        // Depending on how you set up your Visual Studio keyboard shortcuts, the default one is "CTRL+SHIFT+B". This just compiles 
         // the executable, but doesn't run it. You need to open your project folder and run the executable in the 'bin/Debug' or 'bin/Release' folder.
         // It's annoying having to do that everytime, but that's the only solution that I can think of at the moment.
 
