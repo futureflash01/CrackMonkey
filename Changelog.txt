@@ -1,6 +1,7 @@
 
 Update v1.2 - OTA Update Support! - 05/31/2024
 
+
 Changelog:
 
 • Added OTA updates
@@ -16,7 +17,9 @@ Changelog:
 
 If there's any issues or any bugs you would like to report, please email: btdbugreports@gmail.com
 ---------------------------------------------------------------------------------------------------
+
 Update v1.1 - WinStore Support! - 05/25/2024
+
 
 Changelog:
 
