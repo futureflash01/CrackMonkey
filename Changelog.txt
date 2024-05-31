@@ -1,0 +1,40 @@
+
+Update v1.2 - OTA Update Support! - 05/31/2024
+
+Changelog:
+
+• Added OTA updates
+	- Now the app checks for an update and downloads it online!
+	
+• Removed Portable Releases!
+	- All the portable releases have been removed due to file permission issues with 'JohnTheRipper'.
+	  This issue makes the portable versions not function at all. The program won't even launch 
+	  
+• Included extra folders in the source code
+	- The 'bin' and 'obj' folders in specific have been included to make compilation smoother
+
+
+If there's any issues or any bugs you would like to report, please email: btdbugreports@gmail.com
+---------------------------------------------------------------------------------------------------
+Update v1.1 - WinStore Support! - 05/25/2024
+
+Changelog:
+
+• Added support for the Windows Store version of the game! Just launch the game and click 'Start'. It's that easy
+• QOL changes to make source code more readable
+
+
+If there's any issues or any bugs you would like to report, please email: btdbugreports@gmail.com
+---------------------------------------------------------------------------------------------------
+Initial Release (v1.0) - 05/24/2024
+
+This is the initial release for CrackMonkey!
+
+• Info about the release files below:
+	- 'CrackMonkeyRemastered-Setup.exe': Installs the program via normal methods (to 'Program Files (x86)' Folder)
+	- 'CrackMonkeyRemastered-Portable.7z': Heavily compressed, portable version if you don't want to use the installer. However, 7-Zip needs to be installed
+	- 'CrackMonkeyRemastered-Portable.zip': Normal ZIP file. Bigger file size, but is portable and can be uncompressed using the default Windows ZIP Viewer
+
+
+If there's any issues or any bugs you would like to report, please email: btdbugreports@gmail.com
+---------------------------------------------------------------------------------------------------

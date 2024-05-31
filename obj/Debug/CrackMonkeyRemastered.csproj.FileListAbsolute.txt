@@ -1,0 +1,12 @@
+D:\My-Programs\CrackMonkeyRemastered\bin\Debug\CrackMonkeyRemastered.exe.config
+D:\My-Programs\CrackMonkeyRemastered\bin\Debug\CrackMonkeyRemastered.exe
+D:\My-Programs\CrackMonkeyRemastered\bin\Debug\CrackMonkeyRemastered.pdb
+D:\My-Programs\CrackMonkeyRemastered\obj\Debug\CrackMonkeyRemastered.csproj.AssemblyReference.cache
+D:\My-Programs\CrackMonkeyRemastered\obj\Debug\CrackMonkeyRemastered.Properties.Resources.resources
+D:\My-Programs\CrackMonkeyRemastered\obj\Debug\CrackMonkeyRemastered.csproj.GenerateResource.cache
+D:\My-Programs\CrackMonkeyRemastered\obj\Debug\CrackMonkeyRemastered.csproj.CoreCompileInputs.cache
+D:\My-Programs\CrackMonkeyRemastered\obj\Debug\CrackMonkeyRemastered.exe
+D:\My-Programs\CrackMonkeyRemastered\obj\Debug\CrackMonkeyRemastered.pdb
+D:\My-Programs\CrackMonkeyRemastered\obj\Debug\CrackMonkeyRemastered.CrackMonkeyForm.resources
+D:\My-Programs\CrackMonkeyRemastered\obj\Debug\CrackMonkeyRemastered.SavedPasswordForm.resources
+D:\My-Programs\CrackMonkeyRemastered\obj\Debug\CrackMon.625379E9.Up2Date
