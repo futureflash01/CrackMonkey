@@ -13,5 +13,4 @@ D:\My-Programs\CrackMonkeyRemastered\bin\Release\AutoUpdater.NET.dll
 D:\My-Programs\CrackMonkeyRemastered\bin\Release\Microsoft.Web.WebView2.Core.dll
 D:\My-Programs\CrackMonkeyRemastered\bin\Release\Microsoft.Web.WebView2.WinForms.dll
 D:\My-Programs\CrackMonkeyRemastered\obj\Release\CrackMon.625379E9.Up2Date
-D:\My-Programs\CrackMonkeyRemastered\bin\Release\Newtonsoft.Json.dll
 D:\My-Programs\CrackMonkeyRemastered\bin\Release\ReaLTaiizor.dll
