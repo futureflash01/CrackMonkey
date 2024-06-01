@@ -1,5 +1,7 @@
 ﻿using AutoUpdaterDotNET;
 using CrackMonkeyRemastered.Properties;
+using ReaLTaiizor.Controls;
+using ReaLTaiizor.Forms;
 using System;
 using System.Diagnostics;
 using System.Drawing;
@@ -14,7 +16,7 @@ using System.Windows.Forms;
 
 namespace CrackMonkeyRemastered
 {
-    public partial class CrackMonkeyForm : Form
+    public partial class CrackMonkeyForm : MaterialForm
     {
         // READ BEFORE COMPILING:
         // For some reason, opening this project in Visual Studio and clicking the 'Start' button causes issues. To fix:
@@ -22,16 +24,17 @@ namespace CrackMonkeyRemastered
         // the executable, but doesn't run it. You need to actually run it from your project directory inside the 'bin/Debug' folder
 
 
-        
+
         // Declare necessary public variables
+        public string currentPath = Environment.CurrentDirectory;
         public string btdVersion;
         public string btdPath;
         public string btdPassword;
         public int btdPID;
-        string currentPath = Environment.CurrentDirectory;
-        Icon appIco = Icon.ExtractAssociatedIcon(Assembly.GetExecutingAssembly().Location);
-
+        
+        Icon appIcoFile = Icon.ExtractAssociatedIcon(Assembly.GetExecutingAssembly().Location);
         Settings crackMonkeySettings = new Settings();
+        Size formSize = new Size(365, 201);
 
         public CrackMonkeyForm()
         {
@@ -135,12 +138,18 @@ namespace CrackMonkeyRemastered
 
         private void CrackMonkeyForm_Load(object sender, EventArgs e)
         {
+            this.Size = formSize;
+            windowIcon.BorderStyle = BorderStyle.None;
+            windowIcon.BackColor = Color.Transparent;
+
+            statusLabel.Font = new Font("Roboto", 9, FontStyle.Bold);
+            startButton.Visible = false;
             startButton.Enabled = false;
-            Bitmap appIcon = new Bitmap(appIco.ToBitmap());
+            Bitmap appIconPNG = new Bitmap(appIcoFile.ToBitmap());
 
             // Check if program has any OTA updates, then download
             AutoUpdater.Start("https://raw.githubusercontent.com/futureflash01/CrackMonkey/main/AppUpdate.xml");
-            AutoUpdater.Icon = appIcon;
+            AutoUpdater.Icon = appIconPNG;
             AutoUpdater.Mandatory = true;
             AutoUpdater.TopMost = true;
 
@@ -168,18 +177,19 @@ namespace CrackMonkeyRemastered
             // This step puts the final cracked password in your clipboard so it's easy to paste
             Clipboard.SetText(btdPassword);
 
-            MessageBox.Show(
-            $"Password has been successfully cracked!\r\nHere's the password: {btdPassword}\r\n\r\nPassword has been copied to your clipboard!",
-            "Success!",
-            MessageBoxButtons.OK,
-            MessageBoxIcon.Information);
-
+            // Restart the application. 'Program.cs' handles what form to open, depending on if the password is saved or not
             Application.Restart();
         }
 
         // This whole function runs every second and it checks if the game is running or not.
         private void CheckGameStatus(object source, ElapsedEventArgs e)
         {
+
+            this.BeginInvoke((Action)delegate ()
+            {
+                this.Size = formSize;
+            });
+
             // 'steamProcessPath' and 'winProcessPath' are not an array and this step is only used to return the file path of the running game
             Process steamProcessPath = Process.GetProcessesByName("Battles-Win").FirstOrDefault();
             Process winProcessPath = Process.GetProcessesByName("Battles-WinRT.Windows").FirstOrDefault();
@@ -204,11 +214,13 @@ namespace CrackMonkeyRemastered
                     {
                         statusLabel.Text = "Status: Running!\r\nCurrent Version: " + btdVersion;
                         statusLabel.ForeColor = Color.Green;
+                        statusLabel.Font = new Font("Roboto", 9, FontStyle.Bold);
                     });
 
                     startButton.BeginInvoke((Action)delegate ()
                     {
                         startButton.Enabled = true;
+                        startButton.Visible = true;
                     });
                 }
 
@@ -232,11 +244,13 @@ namespace CrackMonkeyRemastered
                     {
                         statusLabel.Text = "Status: Running!\r\nCurrent Version: " + btdVersion;
                         statusLabel.ForeColor = Color.Green;
+                        statusLabel.Font = new Font("Roboto", 9, FontStyle.Bold);
                     });
 
                     startButton.BeginInvoke((Action)delegate ()
                     {
                         startButton.Enabled = true;
+                        startButton.Visible = true;
                     });
                 }
 
@@ -246,11 +260,13 @@ namespace CrackMonkeyRemastered
                     {
                         statusLabel.Text = "Status: Not Running!";
                         statusLabel.ForeColor = Color.Red;
+                        statusLabel.Font = new Font("Roboto", 9, FontStyle.Bold);
                     });
 
                     startButton.BeginInvoke((Action)delegate ()
                     {
                         startButton.Enabled = false;
+                        startButton.Visible = false;
                     });
                 }
             }
@@ -258,15 +274,6 @@ namespace CrackMonkeyRemastered
             {
 
             }
-        }
-
-        private void aboutToolStripMenuItem_Click(object sender, EventArgs e)
-        {
-            MessageBox.Show(
-            "CrackMonkey Remastered (CMR) is a program that cracks and extracts the encrypted password for the 'data.jet' file in BTD Battles. This program is only intended for modding purposes only, however I do not condone modding in any way! Use at your own risk!\r\n\r\nP.S: It's called remastered because I tried making this program a few years ago and I forgot about it. Also, this program is a successor to 'BTDPassExtractor' which was a program I made that was used by a lot of Redditors in the BTD Modding community!\r\n\r\nCreated by FutureFlash on 5/24/2024",
-            $"Crack Monkey Remastered ({versionLabel.Text})",
-            MessageBoxButtons.OK,
-            MessageBoxIcon.Information);
         }
 
         private void CrackMonkeyForm_FormClosing(object sender, FormClosingEventArgs e)
@@ -294,6 +301,18 @@ namespace CrackMonkeyRemastered
         {
             // Shameless plug :) Please subscribe! Anything helps!
             Process.Start("https://www.youtube.com/@FutureFlash");
+        }
+
+        private void aboutButton_Click(object sender, EventArgs e)
+        {
+            // 'TopMost' property must be set to false in order for the custom MessageBox control to appear on top
+            this.TopMost = false;
+
+            string msgBoxTest = "CrackMonkey Remastered (CMR) is a program that cracks and extracts\r\nthe encrypted password for the 'data.jet' file in BTD Battles.\r\n\r\nThis program is only intended for modding purposes, however I do\r\nnot condone modding in any way! Use at your own risk!\r\n\r\nP.S: It's called remastered because I tried making this program a few years\r\nago and I forgot about it. Also, this program is a successor to 'BTDPassExtractor',\r\nwhich was a program I made that was used by a lot of Redditors in the BTD Modding community!\r\n\r\nCreated by FutureFlash on 5/24/2024\r\n";
+            MaterialMessageBox.Show(msgBoxTest, $"Crack Monkey Remastered ({versionLabel.Text})", MessageBoxButtons.OK, false, MaterialFlexibleForm.ButtonsPosition.Center);
+            
+            // After closing the custom MessageBox control, set property to default value
+            this.TopMost = true;
         }
     }
 

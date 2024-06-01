@@ -398,3 +398,867 @@
 0:00:00:00 - No stacked rules
 0:00:00:00 + Cracked datajetCOPY.jet
 0:00:00:00 Session completed
+0:00:00:00 Starting a new session
+0:00:00:00 Loaded a total of 1 password hash
+0:00:00:00 Command line: /src/john --wordlist=D:\My-Programs\CrackMonkeyRemastered\bin\Debug\src\strings.txt D:\My-Programs\CrackMonkeyRemastered\bin\Debug\src\data.hash 
+0:00:00:00 - UTF-8 input encoding enabled
+0:00:00:00 - Passwords will be stored UTF-8 encoded in .pot file
+0:00:00:00 - Hash type: PKZIP (min-len 0, max-len 10 [worst case UTF-8] to 31 [ASCII])
+0:00:00:00 - Algorithm: 32/64
+0:00:00:00 - Will reject candidates longer than 31 bytes
+0:00:00:00 - Candidate passwords will be buffered and tried in chunks of 16384
+0:00:00:00 Proceeding with wordlist mode
+0:00:00:00 - Wordlist file: D:\My-Programs\CrackMonkeyRemastered\bin\Debug\src\strings.txt
+0:00:00:00 - memory mapping wordlist (34683187 bytes)
+0:00:00:00 - No word mangling rules
+0:00:00:00 - No stacked rules
+0:00:00:00 + Cracked datajetCOPY.jet
+0:00:00:00 Session completed
+0:00:00:00 Starting a new session
+0:00:00:00 Loaded a total of 1 password hash
+0:00:00:00 Command line: /src/john --wordlist=D:\My-Programs\CrackMonkeyRemastered\bin\Debug\src\strings.txt D:\My-Programs\CrackMonkeyRemastered\bin\Debug\src\data.hash 
+0:00:00:00 - UTF-8 input encoding enabled
+0:00:00:00 - Passwords will be stored UTF-8 encoded in .pot file
+0:00:00:00 - Hash type: PKZIP (min-len 0, max-len 10 [worst case UTF-8] to 31 [ASCII])
+0:00:00:00 - Algorithm: 32/64
+0:00:00:00 - Will reject candidates longer than 31 bytes
+0:00:00:00 - Candidate passwords will be buffered and tried in chunks of 16384
+0:00:00:00 Proceeding with wordlist mode
+0:00:00:00 - Wordlist file: D:\My-Programs\CrackMonkeyRemastered\bin\Debug\src\strings.txt
+0:00:00:00 - memory mapping wordlist (36324469 bytes)
+0:00:00:00 - No word mangling rules
+0:00:00:00 - No stacked rules
+0:00:00:00 + Cracked datajetCOPY.jet
+0:00:00:00 Session completed
+0:00:00:00 Starting a new session
+0:00:00:00 Loaded a total of 1 password hash
+0:00:00:00 Command line: /src/john --wordlist=D:\My-Programs\CrackMonkeyRemastered\bin\Debug\src\strings.txt D:\My-Programs\CrackMonkeyRemastered\bin\Debug\src\data.hash 
+0:00:00:00 - UTF-8 input encoding enabled
+0:00:00:00 - Passwords will be stored UTF-8 encoded in .pot file
+0:00:00:00 - Hash type: PKZIP (min-len 0, max-len 10 [worst case UTF-8] to 31 [ASCII])
+0:00:00:00 - Algorithm: 32/64
+0:00:00:00 - Will reject candidates longer than 31 bytes
+0:00:00:00 - Candidate passwords will be buffered and tried in chunks of 16384
+0:00:00:00 Proceeding with wordlist mode
+0:00:00:00 - Wordlist file: D:\My-Programs\CrackMonkeyRemastered\bin\Debug\src\strings.txt
+0:00:00:00 - memory mapping wordlist (36985503 bytes)
+0:00:00:00 - No word mangling rules
+0:00:00:00 - No stacked rules
+0:00:00:00 + Cracked datajetCOPY.jet
+0:00:00:00 Session completed
+0:00:00:00 Starting a new session
+0:00:00:00 Loaded a total of 1 password hash
+0:00:00:00 Command line: /src/john --wordlist=D:\My-Programs\CrackMonkeyRemastered\bin\Debug\src\strings.txt D:\My-Programs\CrackMonkeyRemastered\bin\Debug\src\data.hash 
+0:00:00:00 - UTF-8 input encoding enabled
+0:00:00:00 - Passwords will be stored UTF-8 encoded in .pot file
+0:00:00:00 - Hash type: PKZIP (min-len 0, max-len 10 [worst case UTF-8] to 31 [ASCII])
+0:00:00:00 - Algorithm: 32/64
+0:00:00:00 - Will reject candidates longer than 31 bytes
+0:00:00:00 - Candidate passwords will be buffered and tried in chunks of 16384
+0:00:00:00 Proceeding with wordlist mode
+0:00:00:00 - Wordlist file: D:\My-Programs\CrackMonkeyRemastered\bin\Debug\src\strings.txt
+0:00:00:00 - memory mapping wordlist (37141113 bytes)
+0:00:00:00 - No word mangling rules
+0:00:00:00 - No stacked rules
+0:00:00:00 + Cracked datajetCOPY.jet
+0:00:00:00 Session completed
+0:00:00:00 Starting a new session
+0:00:00:00 Loaded a total of 1 password hash
+0:00:00:00 Command line: /src/john --wordlist=D:\My-Programs\CrackMonkeyRemastered\bin\Debug\src\strings.txt D:\My-Programs\CrackMonkeyRemastered\bin\Debug\src\data.hash 
+0:00:00:00 - UTF-8 input encoding enabled
+0:00:00:00 - Passwords will be stored UTF-8 encoded in .pot file
+0:00:00:00 - Hash type: PKZIP (min-len 0, max-len 10 [worst case UTF-8] to 31 [ASCII])
+0:00:00:00 - Algorithm: 32/64
+0:00:00:00 - Will reject candidates longer than 31 bytes
+0:00:00:00 - Candidate passwords will be buffered and tried in chunks of 16384
+0:00:00:00 Proceeding with wordlist mode
+0:00:00:00 - Wordlist file: D:\My-Programs\CrackMonkeyRemastered\bin\Debug\src\strings.txt
+0:00:00:00 - memory mapping wordlist (37148915 bytes)
+0:00:00:00 - No word mangling rules
+0:00:00:00 - No stacked rules
+0:00:00:00 + Cracked datajetCOPY.jet
+0:00:00:00 Session completed
+0:00:00:00 Starting a new session
+0:00:00:00 Loaded a total of 1 password hash
+0:00:00:00 Command line: /src/john --wordlist=D:\My-Programs\CrackMonkeyRemastered\bin\Debug\src\strings.txt D:\My-Programs\CrackMonkeyRemastered\bin\Debug\src\data.hash 
+0:00:00:00 - UTF-8 input encoding enabled
+0:00:00:00 - Passwords will be stored UTF-8 encoded in .pot file
+0:00:00:00 - Hash type: PKZIP (min-len 0, max-len 10 [worst case UTF-8] to 31 [ASCII])
+0:00:00:00 - Algorithm: 32/64
+0:00:00:00 - Will reject candidates longer than 31 bytes
+0:00:00:00 - Candidate passwords will be buffered and tried in chunks of 16384
+0:00:00:00 Proceeding with wordlist mode
+0:00:00:00 - Wordlist file: D:\My-Programs\CrackMonkeyRemastered\bin\Debug\src\strings.txt
+0:00:00:00 - memory mapping wordlist (40720799 bytes)
+0:00:00:00 - No word mangling rules
+0:00:00:00 - No stacked rules
+0:00:00:00 + Cracked datajetCOPY.jet
+0:00:00:00 Session completed
+0:00:00:00 Starting a new session
+0:00:00:00 Loaded a total of 1 password hash
+0:00:00:00 Command line: /src/john --wordlist=D:\My-Programs\CrackMonkeyRemastered\bin\Debug\src\strings.txt D:\My-Programs\CrackMonkeyRemastered\bin\Debug\src\data.hash 
+0:00:00:00 - UTF-8 input encoding enabled
+0:00:00:00 - Passwords will be stored UTF-8 encoded in .pot file
+0:00:00:00 - Hash type: PKZIP (min-len 0, max-len 10 [worst case UTF-8] to 31 [ASCII])
+0:00:00:00 - Algorithm: 32/64
+0:00:00:00 - Will reject candidates longer than 31 bytes
+0:00:00:00 - Candidate passwords will be buffered and tried in chunks of 16384
+0:00:00:00 Proceeding with wordlist mode
+0:00:00:00 - Wordlist file: D:\My-Programs\CrackMonkeyRemastered\bin\Debug\src\strings.txt
+0:00:00:00 - memory mapping wordlist (41332902 bytes)
+0:00:00:00 - No word mangling rules
+0:00:00:00 - No stacked rules
+0:00:00:00 + Cracked datajetCOPY.jet
+0:00:00:00 Session completed
+0:00:00:00 Starting a new session
+0:00:00:00 Loaded a total of 1 password hash
+0:00:00:00 Command line: /src/john --wordlist=D:\My-Programs\CrackMonkeyRemastered\bin\Debug\src\strings.txt D:\My-Programs\CrackMonkeyRemastered\bin\Debug\src\data.hash 
+0:00:00:00 - UTF-8 input encoding enabled
+0:00:00:00 - Passwords will be stored UTF-8 encoded in .pot file
+0:00:00:00 - Hash type: PKZIP (min-len 0, max-len 10 [worst case UTF-8] to 31 [ASCII])
+0:00:00:00 - Algorithm: 32/64
+0:00:00:00 - Will reject candidates longer than 31 bytes
+0:00:00:00 - Candidate passwords will be buffered and tried in chunks of 16384
+0:00:00:00 Proceeding with wordlist mode
+0:00:00:00 - Wordlist file: D:\My-Programs\CrackMonkeyRemastered\bin\Debug\src\strings.txt
+0:00:00:00 - memory mapping wordlist (41333427 bytes)
+0:00:00:00 - No word mangling rules
+0:00:00:00 - No stacked rules
+0:00:00:00 + Cracked datajetCOPY.jet
+0:00:00:00 Session completed
+0:00:00:00 Starting a new session
+0:00:00:00 Loaded a total of 1 password hash
+0:00:00:00 Command line: /src/john --wordlist=D:\My-Programs\CrackMonkeyRemastered\bin\Debug\src\strings.txt D:\My-Programs\CrackMonkeyRemastered\bin\Debug\src\data.hash 
+0:00:00:00 - UTF-8 input encoding enabled
+0:00:00:00 - Passwords will be stored UTF-8 encoded in .pot file
+0:00:00:00 - Hash type: PKZIP (min-len 0, max-len 10 [worst case UTF-8] to 31 [ASCII])
+0:00:00:00 - Algorithm: 32/64
+0:00:00:00 - Will reject candidates longer than 31 bytes
+0:00:00:00 - Candidate passwords will be buffered and tried in chunks of 16384
+0:00:00:00 Proceeding with wordlist mode
+0:00:00:00 - Wordlist file: D:\My-Programs\CrackMonkeyRemastered\bin\Debug\src\strings.txt
+0:00:00:00 - memory mapping wordlist (41344006 bytes)
+0:00:00:00 - No word mangling rules
+0:00:00:00 - No stacked rules
+0:00:00:00 + Cracked datajetCOPY.jet
+0:00:00:00 Session completed
+0:00:00:00 Starting a new session
+0:00:00:00 Loaded a total of 1 password hash
+0:00:00:00 Command line: /src/john --wordlist=D:\My-Programs\CrackMonkeyRemastered\bin\Debug\src\strings.txt D:\My-Programs\CrackMonkeyRemastered\bin\Debug\src\data.hash 
+0:00:00:00 - UTF-8 input encoding enabled
+0:00:00:00 - Passwords will be stored UTF-8 encoded in .pot file
+0:00:00:00 - Hash type: PKZIP (min-len 0, max-len 10 [worst case UTF-8] to 31 [ASCII])
+0:00:00:00 - Algorithm: 32/64
+0:00:00:00 - Will reject candidates longer than 31 bytes
+0:00:00:00 - Candidate passwords will be buffered and tried in chunks of 16384
+0:00:00:00 Proceeding with wordlist mode
+0:00:00:00 - Wordlist file: D:\My-Programs\CrackMonkeyRemastered\bin\Debug\src\strings.txt
+0:00:00:00 - memory mapping wordlist (41335550 bytes)
+0:00:00:00 - No word mangling rules
+0:00:00:00 - No stacked rules
+0:00:00:00 + Cracked datajetCOPY.jet
+0:00:00:00 Session completed
+0:00:00:00 Starting a new session
+0:00:00:00 Loaded a total of 1 password hash
+0:00:00:00 Command line: /src/john --wordlist=D:\My-Programs\CrackMonkeyRemastered\bin\Debug\src\strings.txt D:\My-Programs\CrackMonkeyRemastered\bin\Debug\src\data.hash 
+0:00:00:00 - UTF-8 input encoding enabled
+0:00:00:00 - Passwords will be stored UTF-8 encoded in .pot file
+0:00:00:00 - Hash type: PKZIP (min-len 0, max-len 10 [worst case UTF-8] to 31 [ASCII])
+0:00:00:00 - Algorithm: 32/64
+0:00:00:00 - Will reject candidates longer than 31 bytes
+0:00:00:00 - Candidate passwords will be buffered and tried in chunks of 16384
+0:00:00:00 Proceeding with wordlist mode
+0:00:00:00 - Wordlist file: D:\My-Programs\CrackMonkeyRemastered\bin\Debug\src\strings.txt
+0:00:00:00 - memory mapping wordlist (41537293 bytes)
+0:00:00:00 - No word mangling rules
+0:00:00:00 - No stacked rules
+0:00:00:00 + Cracked datajetCOPY.jet
+0:00:00:00 Session completed
+0:00:00:00 Starting a new session
+0:00:00:00 Loaded a total of 1 password hash
+0:00:00:00 Command line: /src/john --wordlist=D:\My-Programs\CrackMonkeyRemastered\bin\Debug\src\strings.txt D:\My-Programs\CrackMonkeyRemastered\bin\Debug\src\data.hash 
+0:00:00:00 - UTF-8 input encoding enabled
+0:00:00:00 - Passwords will be stored UTF-8 encoded in .pot file
+0:00:00:00 - Hash type: PKZIP (min-len 0, max-len 10 [worst case UTF-8] to 31 [ASCII])
+0:00:00:00 - Algorithm: 32/64
+0:00:00:00 - Will reject candidates longer than 31 bytes
+0:00:00:00 - Candidate passwords will be buffered and tried in chunks of 16384
+0:00:00:00 Proceeding with wordlist mode
+0:00:00:00 - Wordlist file: D:\My-Programs\CrackMonkeyRemastered\bin\Debug\src\strings.txt
+0:00:00:00 - memory mapping wordlist (41542830 bytes)
+0:00:00:00 - No word mangling rules
+0:00:00:00 - No stacked rules
+0:00:00:00 + Cracked datajetCOPY.jet
+0:00:00:00 Session completed
+0:00:00:00 Starting a new session
+0:00:00:00 Loaded a total of 1 password hash
+0:00:00:00 Command line: /src/john --wordlist=D:\My-Programs\CrackMonkeyRemastered\bin\Debug\src\strings.txt D:\My-Programs\CrackMonkeyRemastered\bin\Debug\src\data.hash 
+0:00:00:00 - UTF-8 input encoding enabled
+0:00:00:00 - Passwords will be stored UTF-8 encoded in .pot file
+0:00:00:00 - Hash type: PKZIP (min-len 0, max-len 10 [worst case UTF-8] to 31 [ASCII])
+0:00:00:00 - Algorithm: 32/64
+0:00:00:00 - Will reject candidates longer than 31 bytes
+0:00:00:00 - Candidate passwords will be buffered and tried in chunks of 16384
+0:00:00:00 Proceeding with wordlist mode
+0:00:00:00 - Wordlist file: D:\My-Programs\CrackMonkeyRemastered\bin\Debug\src\strings.txt
+0:00:00:00 - memory mapping wordlist (41529358 bytes)
+0:00:00:00 - No word mangling rules
+0:00:00:00 - No stacked rules
+0:00:00:00 + Cracked datajetCOPY.jet
+0:00:00:00 Session completed
+0:00:00:00 Starting a new session
+0:00:00:00 Loaded a total of 1 password hash
+0:00:00:00 Command line: /src/john --wordlist=D:\My-Programs\CrackMonkeyRemastered\bin\Debug\src\strings.txt D:\My-Programs\CrackMonkeyRemastered\bin\Debug\src\data.hash 
+0:00:00:00 - UTF-8 input encoding enabled
+0:00:00:00 - Passwords will be stored UTF-8 encoded in .pot file
+0:00:00:00 - Hash type: PKZIP (min-len 0, max-len 10 [worst case UTF-8] to 31 [ASCII])
+0:00:00:00 - Algorithm: 32/64
+0:00:00:00 - Will reject candidates longer than 31 bytes
+0:00:00:00 - Candidate passwords will be buffered and tried in chunks of 16384
+0:00:00:00 Proceeding with wordlist mode
+0:00:00:00 - Wordlist file: D:\My-Programs\CrackMonkeyRemastered\bin\Debug\src\strings.txt
+0:00:00:00 - memory mapping wordlist (41545328 bytes)
+0:00:00:00 - No word mangling rules
+0:00:00:00 - No stacked rules
+0:00:00:00 + Cracked datajetCOPY.jet
+0:00:00:00 Session completed
+0:00:00:00 Starting a new session
+0:00:00:00 Loaded a total of 1 password hash
+0:00:00:00 Command line: /src/john --wordlist=D:\My-Programs\CrackMonkeyRemastered\bin\Debug\src\strings.txt D:\My-Programs\CrackMonkeyRemastered\bin\Debug\src\data.hash 
+0:00:00:00 - UTF-8 input encoding enabled
+0:00:00:00 - Passwords will be stored UTF-8 encoded in .pot file
+0:00:00:00 - Hash type: PKZIP (min-len 0, max-len 10 [worst case UTF-8] to 31 [ASCII])
+0:00:00:00 - Algorithm: 32/64
+0:00:00:00 - Will reject candidates longer than 31 bytes
+0:00:00:00 - Candidate passwords will be buffered and tried in chunks of 16384
+0:00:00:00 Proceeding with wordlist mode
+0:00:00:00 - Wordlist file: D:\My-Programs\CrackMonkeyRemastered\bin\Debug\src\strings.txt
+0:00:00:00 - memory mapping wordlist (41557142 bytes)
+0:00:00:00 - No word mangling rules
+0:00:00:00 - No stacked rules
+0:00:00:00 + Cracked datajetCOPY.jet
+0:00:00:00 Session completed
+0:00:00:00 Starting a new session
+0:00:00:00 Loaded a total of 1 password hash
+0:00:00:00 Command line: /src/john --wordlist=D:\My-Programs\CrackMonkeyRemastered\bin\Debug\src\strings.txt D:\My-Programs\CrackMonkeyRemastered\bin\Debug\src\data.hash 
+0:00:00:00 - UTF-8 input encoding enabled
+0:00:00:00 - Passwords will be stored UTF-8 encoded in .pot file
+0:00:00:00 - Hash type: PKZIP (min-len 0, max-len 10 [worst case UTF-8] to 31 [ASCII])
+0:00:00:00 - Algorithm: 32/64
+0:00:00:00 - Will reject candidates longer than 31 bytes
+0:00:00:00 - Candidate passwords will be buffered and tried in chunks of 16384
+0:00:00:00 Proceeding with wordlist mode
+0:00:00:00 - Wordlist file: D:\My-Programs\CrackMonkeyRemastered\bin\Debug\src\strings.txt
+0:00:00:00 - memory mapping wordlist (41564528 bytes)
+0:00:00:00 - No word mangling rules
+0:00:00:00 - No stacked rules
+0:00:00:00 + Cracked datajetCOPY.jet
+0:00:00:00 Session completed
+0:00:00:00 Starting a new session
+0:00:00:00 Loaded a total of 1 password hash
+0:00:00:00 Command line: /src/john --wordlist=D:\My-Programs\CrackMonkeyRemastered\bin\Debug\src\strings.txt D:\My-Programs\CrackMonkeyRemastered\bin\Debug\src\data.hash 
+0:00:00:00 - UTF-8 input encoding enabled
+0:00:00:00 - Passwords will be stored UTF-8 encoded in .pot file
+0:00:00:00 - Hash type: PKZIP (min-len 0, max-len 10 [worst case UTF-8] to 31 [ASCII])
+0:00:00:00 - Algorithm: 32/64
+0:00:00:00 - Will reject candidates longer than 31 bytes
+0:00:00:00 - Candidate passwords will be buffered and tried in chunks of 16384
+0:00:00:00 Proceeding with wordlist mode
+0:00:00:00 - Wordlist file: D:\My-Programs\CrackMonkeyRemastered\bin\Debug\src\strings.txt
+0:00:00:00 - memory mapping wordlist (41569186 bytes)
+0:00:00:00 - No word mangling rules
+0:00:00:00 - No stacked rules
+0:00:00:00 + Cracked datajetCOPY.jet
+0:00:00:00 Session completed
+0:00:00:00 Starting a new session
+0:00:00:00 Loaded a total of 1 password hash
+0:00:00:00 Command line: /src/john --wordlist=D:\My-Programs\CrackMonkeyRemastered\bin\Debug\src\strings.txt D:\My-Programs\CrackMonkeyRemastered\bin\Debug\src\data.hash 
+0:00:00:00 - UTF-8 input encoding enabled
+0:00:00:00 - Passwords will be stored UTF-8 encoded in .pot file
+0:00:00:00 - Hash type: PKZIP (min-len 0, max-len 10 [worst case UTF-8] to 31 [ASCII])
+0:00:00:00 - Algorithm: 32/64
+0:00:00:00 - Will reject candidates longer than 31 bytes
+0:00:00:00 - Candidate passwords will be buffered and tried in chunks of 16384
+0:00:00:00 Proceeding with wordlist mode
+0:00:00:00 - Wordlist file: D:\My-Programs\CrackMonkeyRemastered\bin\Debug\src\strings.txt
+0:00:00:00 - memory mapping wordlist (41562305 bytes)
+0:00:00:00 - No word mangling rules
+0:00:00:00 - No stacked rules
+0:00:00:00 + Cracked datajetCOPY.jet
+0:00:00:00 Session completed
+0:00:00:00 Starting a new session
+0:00:00:00 Loaded a total of 1 password hash
+0:00:00:00 Command line: /src/john --wordlist=D:\My-Programs\CrackMonkeyRemastered\bin\Debug\src\strings.txt D:\My-Programs\CrackMonkeyRemastered\bin\Debug\src\data.hash 
+0:00:00:00 - UTF-8 input encoding enabled
+0:00:00:00 - Passwords will be stored UTF-8 encoded in .pot file
+0:00:00:00 - Hash type: PKZIP (min-len 0, max-len 10 [worst case UTF-8] to 31 [ASCII])
+0:00:00:00 - Algorithm: 32/64
+0:00:00:00 - Will reject candidates longer than 31 bytes
+0:00:00:00 - Candidate passwords will be buffered and tried in chunks of 16384
+0:00:00:00 Proceeding with wordlist mode
+0:00:00:00 - Wordlist file: D:\My-Programs\CrackMonkeyRemastered\bin\Debug\src\strings.txt
+0:00:00:00 - memory mapping wordlist (41577104 bytes)
+0:00:00:00 - No word mangling rules
+0:00:00:00 - No stacked rules
+0:00:00:00 + Cracked datajetCOPY.jet
+0:00:00:00 Session completed
+0:00:00:00 Starting a new session
+0:00:00:00 Loaded a total of 1 password hash
+0:00:00:00 Command line: /src/john --wordlist=D:\My-Programs\CrackMonkeyRemastered\bin\Debug\src\strings.txt D:\My-Programs\CrackMonkeyRemastered\bin\Debug\src\data.hash 
+0:00:00:00 - UTF-8 input encoding enabled
+0:00:00:00 - Passwords will be stored UTF-8 encoded in .pot file
+0:00:00:00 - Hash type: PKZIP (min-len 0, max-len 10 [worst case UTF-8] to 31 [ASCII])
+0:00:00:00 - Algorithm: 32/64
+0:00:00:00 - Will reject candidates longer than 31 bytes
+0:00:00:00 - Candidate passwords will be buffered and tried in chunks of 16384
+0:00:00:00 Proceeding with wordlist mode
+0:00:00:00 - Wordlist file: D:\My-Programs\CrackMonkeyRemastered\bin\Debug\src\strings.txt
+0:00:00:00 - memory mapping wordlist (41576904 bytes)
+0:00:00:00 - No word mangling rules
+0:00:00:00 - No stacked rules
+0:00:00:00 + Cracked datajetCOPY.jet
+0:00:00:00 Session completed
+0:00:00:00 Starting a new session
+0:00:00:00 Loaded a total of 1 password hash
+0:00:00:00 Command line: /src/john --wordlist=D:\My-Programs\CrackMonkeyRemastered\bin\Debug\src\strings.txt D:\My-Programs\CrackMonkeyRemastered\bin\Debug\src\data.hash 
+0:00:00:00 - UTF-8 input encoding enabled
+0:00:00:00 - Passwords will be stored UTF-8 encoded in .pot file
+0:00:00:00 - Hash type: PKZIP (min-len 0, max-len 10 [worst case UTF-8] to 31 [ASCII])
+0:00:00:00 - Algorithm: 32/64
+0:00:00:00 - Will reject candidates longer than 31 bytes
+0:00:00:00 - Candidate passwords will be buffered and tried in chunks of 16384
+0:00:00:00 Proceeding with wordlist mode
+0:00:00:00 - Wordlist file: D:\My-Programs\CrackMonkeyRemastered\bin\Debug\src\strings.txt
+0:00:00:00 - memory mapping wordlist (41570770 bytes)
+0:00:00:00 - No word mangling rules
+0:00:00:00 - No stacked rules
+0:00:00:00 + Cracked datajetCOPY.jet
+0:00:00:00 Session completed
+0:00:00:00 Starting a new session
+0:00:00:00 Loaded a total of 1 password hash
+0:00:00:00 Command line: /src/john --wordlist=D:\My-Programs\CrackMonkeyRemastered\bin\Debug\src\strings.txt D:\My-Programs\CrackMonkeyRemastered\bin\Debug\src\data.hash 
+0:00:00:00 - UTF-8 input encoding enabled
+0:00:00:00 - Passwords will be stored UTF-8 encoded in .pot file
+0:00:00:00 - Hash type: PKZIP (min-len 0, max-len 10 [worst case UTF-8] to 31 [ASCII])
+0:00:00:00 - Algorithm: 32/64
+0:00:00:00 - Will reject candidates longer than 31 bytes
+0:00:00:00 - Candidate passwords will be buffered and tried in chunks of 16384
+0:00:00:00 Proceeding with wordlist mode
+0:00:00:00 - Wordlist file: D:\My-Programs\CrackMonkeyRemastered\bin\Debug\src\strings.txt
+0:00:00:00 - memory mapping wordlist (41574632 bytes)
+0:00:00:00 - No word mangling rules
+0:00:00:00 - No stacked rules
+0:00:00:00 + Cracked datajetCOPY.jet
+0:00:00:00 Session completed
+0:00:00:00 Starting a new session
+0:00:00:00 Loaded a total of 1 password hash
+0:00:00:00 Command line: /src/john --wordlist=D:\My-Programs\CrackMonkeyRemastered\bin\Debug\src\strings.txt D:\My-Programs\CrackMonkeyRemastered\bin\Debug\src\data.hash 
+0:00:00:00 - UTF-8 input encoding enabled
+0:00:00:00 - Passwords will be stored UTF-8 encoded in .pot file
+0:00:00:00 - Hash type: PKZIP (min-len 0, max-len 10 [worst case UTF-8] to 31 [ASCII])
+0:00:00:00 - Algorithm: 32/64
+0:00:00:00 - Will reject candidates longer than 31 bytes
+0:00:00:00 - Candidate passwords will be buffered and tried in chunks of 16384
+0:00:00:00 Proceeding with wordlist mode
+0:00:00:00 - Wordlist file: D:\My-Programs\CrackMonkeyRemastered\bin\Debug\src\strings.txt
+0:00:00:00 - memory mapping wordlist (41570521 bytes)
+0:00:00:00 - No word mangling rules
+0:00:00:00 - No stacked rules
+0:00:00:00 + Cracked datajetCOPY.jet
+0:00:00:00 Session completed
+0:00:00:00 Starting a new session
+0:00:00:00 Loaded a total of 1 password hash
+0:00:00:00 Command line: /src/john --wordlist=D:\My-Programs\CrackMonkeyRemastered\bin\Debug\src\strings.txt D:\My-Programs\CrackMonkeyRemastered\bin\Debug\src\data.hash 
+0:00:00:00 - UTF-8 input encoding enabled
+0:00:00:00 - Passwords will be stored UTF-8 encoded in .pot file
+0:00:00:00 - Hash type: PKZIP (min-len 0, max-len 10 [worst case UTF-8] to 31 [ASCII])
+0:00:00:00 - Algorithm: 32/64
+0:00:00:00 - Will reject candidates longer than 31 bytes
+0:00:00:00 - Candidate passwords will be buffered and tried in chunks of 16384
+0:00:00:00 Proceeding with wordlist mode
+0:00:00:00 - Wordlist file: D:\My-Programs\CrackMonkeyRemastered\bin\Debug\src\strings.txt
+0:00:00:00 - memory mapping wordlist (41037139 bytes)
+0:00:00:00 - No word mangling rules
+0:00:00:00 - No stacked rules
+0:00:00:00 + Cracked datajetCOPY.jet
+0:00:00:00 Session completed
+0:00:00:00 Starting a new session
+0:00:00:00 Loaded a total of 1 password hash
+0:00:00:00 Command line: /src/john --wordlist=D:\My-Programs\CrackMonkeyRemastered\bin\Debug\src\strings.txt D:\My-Programs\CrackMonkeyRemastered\bin\Debug\src\data.hash 
+0:00:00:00 - UTF-8 input encoding enabled
+0:00:00:00 - Passwords will be stored UTF-8 encoded in .pot file
+0:00:00:00 - Hash type: PKZIP (min-len 0, max-len 10 [worst case UTF-8] to 31 [ASCII])
+0:00:00:00 - Algorithm: 32/64
+0:00:00:00 - Will reject candidates longer than 31 bytes
+0:00:00:00 - Candidate passwords will be buffered and tried in chunks of 16384
+0:00:00:00 Proceeding with wordlist mode
+0:00:00:00 - Wordlist file: D:\My-Programs\CrackMonkeyRemastered\bin\Debug\src\strings.txt
+0:00:00:00 - memory mapping wordlist (41716896 bytes)
+0:00:00:00 - No word mangling rules
+0:00:00:00 - No stacked rules
+0:00:00:00 + Cracked datajetCOPY.jet
+0:00:00:00 Session completed
+0:00:00:00 Starting a new session
+0:00:00:00 Loaded a total of 1 password hash
+0:00:00:00 Command line: /src/john --wordlist=D:\My-Programs\CrackMonkeyRemastered\bin\Debug\src\strings.txt D:\My-Programs\CrackMonkeyRemastered\bin\Debug\src\data.hash 
+0:00:00:00 - UTF-8 input encoding enabled
+0:00:00:00 - Passwords will be stored UTF-8 encoded in .pot file
+0:00:00:00 - Hash type: PKZIP (min-len 0, max-len 10 [worst case UTF-8] to 31 [ASCII])
+0:00:00:00 - Algorithm: 32/64
+0:00:00:00 - Will reject candidates longer than 31 bytes
+0:00:00:00 - Candidate passwords will be buffered and tried in chunks of 16384
+0:00:00:00 Proceeding with wordlist mode
+0:00:00:00 - Wordlist file: D:\My-Programs\CrackMonkeyRemastered\bin\Debug\src\strings.txt
+0:00:00:00 - memory mapping wordlist (41198856 bytes)
+0:00:00:00 - No word mangling rules
+0:00:00:00 - No stacked rules
+0:00:00:00 + Cracked datajetCOPY.jet
+0:00:00:00 Session completed
+0:00:00:00 Starting a new session
+0:00:00:00 Loaded a total of 1 password hash
+0:00:00:00 Command line: /src/john --wordlist=D:\My-Programs\CrackMonkeyRemastered\bin\Debug\src\strings.txt D:\My-Programs\CrackMonkeyRemastered\bin\Debug\src\data.hash 
+0:00:00:00 - UTF-8 input encoding enabled
+0:00:00:00 - Passwords will be stored UTF-8 encoded in .pot file
+0:00:00:00 - Hash type: PKZIP (min-len 0, max-len 10 [worst case UTF-8] to 31 [ASCII])
+0:00:00:00 - Algorithm: 32/64
+0:00:00:00 - Will reject candidates longer than 31 bytes
+0:00:00:00 - Candidate passwords will be buffered and tried in chunks of 16384
+0:00:00:00 Proceeding with wordlist mode
+0:00:00:00 - Wordlist file: D:\My-Programs\CrackMonkeyRemastered\bin\Debug\src\strings.txt
+0:00:00:00 - memory mapping wordlist (41455518 bytes)
+0:00:00:00 - No word mangling rules
+0:00:00:00 - No stacked rules
+0:00:00:00 + Cracked datajetCOPY.jet
+0:00:00:00 Session completed
+0:00:00:00 Starting a new session
+0:00:00:00 Loaded a total of 1 password hash
+0:00:00:00 Command line: /src/john --wordlist=D:\My-Programs\CrackMonkeyRemastered\bin\Debug\src\strings.txt D:\My-Programs\CrackMonkeyRemastered\bin\Debug\src\data.hash 
+0:00:00:00 - UTF-8 input encoding enabled
+0:00:00:00 - Passwords will be stored UTF-8 encoded in .pot file
+0:00:00:00 - Hash type: PKZIP (min-len 0, max-len 10 [worst case UTF-8] to 31 [ASCII])
+0:00:00:00 - Algorithm: 32/64
+0:00:00:00 - Will reject candidates longer than 31 bytes
+0:00:00:00 - Candidate passwords will be buffered and tried in chunks of 16384
+0:00:00:00 Proceeding with wordlist mode
+0:00:00:00 - Wordlist file: D:\My-Programs\CrackMonkeyRemastered\bin\Debug\src\strings.txt
+0:00:00:00 - memory mapping wordlist (41445023 bytes)
+0:00:00:00 - No word mangling rules
+0:00:00:00 - No stacked rules
+0:00:00:00 + Cracked datajetCOPY.jet
+0:00:00:00 Session completed
+0:00:00:00 Starting a new session
+0:00:00:00 Loaded a total of 1 password hash
+0:00:00:00 Command line: /src/john --wordlist=D:\My-Programs\CrackMonkeyRemastered\bin\Debug\src\strings.txt D:\My-Programs\CrackMonkeyRemastered\bin\Debug\src\data.hash 
+0:00:00:00 - UTF-8 input encoding enabled
+0:00:00:00 - Passwords will be stored UTF-8 encoded in .pot file
+0:00:00:00 - Hash type: PKZIP (min-len 0, max-len 10 [worst case UTF-8] to 31 [ASCII])
+0:00:00:00 - Algorithm: 32/64
+0:00:00:00 - Will reject candidates longer than 31 bytes
+0:00:00:00 - Candidate passwords will be buffered and tried in chunks of 16384
+0:00:00:00 Proceeding with wordlist mode
+0:00:00:00 - Wordlist file: D:\My-Programs\CrackMonkeyRemastered\bin\Debug\src\strings.txt
+0:00:00:00 - memory mapping wordlist (41605023 bytes)
+0:00:00:00 - No word mangling rules
+0:00:00:00 - No stacked rules
+0:00:00:00 + Cracked datajetCOPY.jet
+0:00:00:00 Session completed
+0:00:00:00 Starting a new session
+0:00:00:00 Loaded a total of 1 password hash
+0:00:00:00 Command line: /src/john --wordlist=D:\My-Programs\CrackMonkeyRemastered\bin\Debug\src\strings.txt D:\My-Programs\CrackMonkeyRemastered\bin\Debug\src\data.hash 
+0:00:00:00 - UTF-8 input encoding enabled
+0:00:00:00 - Passwords will be stored UTF-8 encoded in .pot file
+0:00:00:00 - Hash type: PKZIP (min-len 0, max-len 10 [worst case UTF-8] to 31 [ASCII])
+0:00:00:00 - Algorithm: 32/64
+0:00:00:00 - Will reject candidates longer than 31 bytes
+0:00:00:00 - Candidate passwords will be buffered and tried in chunks of 16384
+0:00:00:00 Proceeding with wordlist mode
+0:00:00:00 - Wordlist file: D:\My-Programs\CrackMonkeyRemastered\bin\Debug\src\strings.txt
+0:00:00:00 - memory mapping wordlist (42040596 bytes)
+0:00:00:00 - No word mangling rules
+0:00:00:00 - No stacked rules
+0:00:00:00 + Cracked datajetCOPY.jet
+0:00:00:00 Session completed
+0:00:00:00 Starting a new session
+0:00:00:00 Loaded a total of 1 password hash
+0:00:00:00 Command line: /src/john --wordlist=D:\My-Programs\CrackMonkeyRemastered\bin\Debug\src\strings.txt D:\My-Programs\CrackMonkeyRemastered\bin\Debug\src\data.hash 
+0:00:00:00 - UTF-8 input encoding enabled
+0:00:00:00 - Passwords will be stored UTF-8 encoded in .pot file
+0:00:00:00 - Hash type: PKZIP (min-len 0, max-len 10 [worst case UTF-8] to 31 [ASCII])
+0:00:00:00 - Algorithm: 32/64
+0:00:00:00 - Will reject candidates longer than 31 bytes
+0:00:00:00 - Candidate passwords will be buffered and tried in chunks of 16384
+0:00:00:00 Proceeding with wordlist mode
+0:00:00:00 - Wordlist file: D:\My-Programs\CrackMonkeyRemastered\bin\Debug\src\strings.txt
+0:00:00:00 - memory mapping wordlist (41270158 bytes)
+0:00:00:00 - No word mangling rules
+0:00:00:00 - No stacked rules
+0:00:00:00 + Cracked datajetCOPY.jet
+0:00:00:00 Session completed
+0:00:00:00 Starting a new session
+0:00:00:00 Loaded a total of 1 password hash
+0:00:00:00 Command line: /src/john --wordlist=D:\My-Programs\CrackMonkeyRemastered\bin\Debug\src\strings.txt D:\My-Programs\CrackMonkeyRemastered\bin\Debug\src\data.hash 
+0:00:00:00 - UTF-8 input encoding enabled
+0:00:00:00 - Passwords will be stored UTF-8 encoded in .pot file
+0:00:00:00 - Hash type: PKZIP (min-len 0, max-len 10 [worst case UTF-8] to 31 [ASCII])
+0:00:00:00 - Algorithm: 32/64
+0:00:00:00 - Will reject candidates longer than 31 bytes
+0:00:00:00 - Candidate passwords will be buffered and tried in chunks of 16384
+0:00:00:00 Proceeding with wordlist mode
+0:00:00:00 - Wordlist file: D:\My-Programs\CrackMonkeyRemastered\bin\Debug\src\strings.txt
+0:00:00:00 - memory mapping wordlist (33657730 bytes)
+0:00:00:00 - No word mangling rules
+0:00:00:00 - No stacked rules
+0:00:00:00 + Cracked datajetCOPY.jet
+0:00:00:00 Session completed
+0:00:00:00 Starting a new session
+0:00:00:00 Loaded a total of 1 password hash
+0:00:00:00 Command line: /src/john --wordlist=D:\My-Programs\CrackMonkeyRemastered\bin\Debug\src\strings.txt D:\My-Programs\CrackMonkeyRemastered\bin\Debug\src\data.hash 
+0:00:00:00 - UTF-8 input encoding enabled
+0:00:00:00 - Passwords will be stored UTF-8 encoded in .pot file
+0:00:00:00 - Hash type: PKZIP (min-len 0, max-len 10 [worst case UTF-8] to 31 [ASCII])
+0:00:00:00 - Algorithm: 32/64
+0:00:00:00 - Will reject candidates longer than 31 bytes
+0:00:00:00 - Candidate passwords will be buffered and tried in chunks of 16384
+0:00:00:00 Proceeding with wordlist mode
+0:00:00:00 - Wordlist file: D:\My-Programs\CrackMonkeyRemastered\bin\Debug\src\strings.txt
+0:00:00:00 - memory mapping wordlist (36402714 bytes)
+0:00:00:00 - No word mangling rules
+0:00:00:00 - No stacked rules
+0:00:00:00 + Cracked datajetCOPY.jet
+0:00:00:00 Session completed
+0:00:00:00 Starting a new session
+0:00:00:00 Loaded a total of 1 password hash
+0:00:00:00 Command line: /src/john --wordlist=D:\My-Programs\CrackMonkeyRemastered\bin\Debug\src\strings.txt D:\My-Programs\CrackMonkeyRemastered\bin\Debug\src\data.hash 
+0:00:00:00 - UTF-8 input encoding enabled
+0:00:00:00 - Passwords will be stored UTF-8 encoded in .pot file
+0:00:00:00 - Hash type: PKZIP (min-len 0, max-len 10 [worst case UTF-8] to 31 [ASCII])
+0:00:00:00 - Algorithm: 32/64
+0:00:00:00 - Will reject candidates longer than 31 bytes
+0:00:00:00 - Candidate passwords will be buffered and tried in chunks of 16384
+0:00:00:00 Proceeding with wordlist mode
+0:00:00:00 - Wordlist file: D:\My-Programs\CrackMonkeyRemastered\bin\Debug\src\strings.txt
+0:00:00:00 - memory mapping wordlist (33958879 bytes)
+0:00:00:00 - No word mangling rules
+0:00:00:00 - No stacked rules
+0:00:00:00 + Cracked datajetCOPY.jet
+0:00:00:00 Session completed
+0:00:00:00 Starting a new session
+0:00:00:00 Loaded a total of 1 password hash
+0:00:00:00 Command line: /src/john --wordlist=D:\My-Programs\CrackMonkeyRemastered\bin\Debug\src\strings.txt D:\My-Programs\CrackMonkeyRemastered\bin\Debug\src\data.hash 
+0:00:00:00 - UTF-8 input encoding enabled
+0:00:00:00 - Passwords will be stored UTF-8 encoded in .pot file
+0:00:00:00 - Hash type: PKZIP (min-len 0, max-len 10 [worst case UTF-8] to 31 [ASCII])
+0:00:00:00 - Algorithm: 32/64
+0:00:00:00 - Will reject candidates longer than 31 bytes
+0:00:00:00 - Candidate passwords will be buffered and tried in chunks of 16384
+0:00:00:00 Proceeding with wordlist mode
+0:00:00:00 - Wordlist file: D:\My-Programs\CrackMonkeyRemastered\bin\Debug\src\strings.txt
+0:00:00:00 - memory mapping wordlist (34875521 bytes)
+0:00:00:00 - No word mangling rules
+0:00:00:00 - No stacked rules
+0:00:00:00 + Cracked datajetCOPY.jet
+0:00:00:00 Session completed
+0:00:00:00 Starting a new session
+0:00:00:00 Loaded a total of 1 password hash
+0:00:00:00 Command line: /src/john --wordlist=D:\My-Programs\CrackMonkeyRemastered\bin\Debug\src\strings.txt D:\My-Programs\CrackMonkeyRemastered\bin\Debug\src\data.hash 
+0:00:00:00 - UTF-8 input encoding enabled
+0:00:00:00 - Passwords will be stored UTF-8 encoded in .pot file
+0:00:00:00 - Hash type: PKZIP (min-len 0, max-len 10 [worst case UTF-8] to 31 [ASCII])
+0:00:00:00 - Algorithm: 32/64
+0:00:00:00 - Will reject candidates longer than 31 bytes
+0:00:00:00 - Candidate passwords will be buffered and tried in chunks of 16384
+0:00:00:00 Proceeding with wordlist mode
+0:00:00:00 - Wordlist file: D:\My-Programs\CrackMonkeyRemastered\bin\Debug\src\strings.txt
+0:00:00:00 - memory mapping wordlist (35683723 bytes)
+0:00:00:00 - No word mangling rules
+0:00:00:00 - No stacked rules
+0:00:00:00 + Cracked datajetCOPY.jet
+0:00:00:00 Session completed
+0:00:00:00 Starting a new session
+0:00:00:00 Loaded a total of 1 password hash
+0:00:00:00 Command line: /src/john --wordlist=D:\My-Programs\CrackMonkeyRemastered\bin\Debug\src\strings.txt D:\My-Programs\CrackMonkeyRemastered\bin\Debug\src\data.hash 
+0:00:00:00 - UTF-8 input encoding enabled
+0:00:00:00 - Passwords will be stored UTF-8 encoded in .pot file
+0:00:00:00 - Hash type: PKZIP (min-len 0, max-len 10 [worst case UTF-8] to 31 [ASCII])
+0:00:00:00 - Algorithm: 32/64
+0:00:00:00 - Will reject candidates longer than 31 bytes
+0:00:00:00 - Candidate passwords will be buffered and tried in chunks of 16384
+0:00:00:00 Proceeding with wordlist mode
+0:00:00:00 - Wordlist file: D:\My-Programs\CrackMonkeyRemastered\bin\Debug\src\strings.txt
+0:00:00:00 - memory mapping wordlist (35705561 bytes)
+0:00:00:00 - No word mangling rules
+0:00:00:00 - No stacked rules
+0:00:00:00 + Cracked datajetCOPY.jet
+0:00:00:00 Session completed
+0:00:00:00 Starting a new session
+0:00:00:00 Loaded a total of 1 password hash
+0:00:00:00 Command line: /src/john --wordlist=D:\My-Programs\CrackMonkeyRemastered\bin\Debug\src\strings.txt D:\My-Programs\CrackMonkeyRemastered\bin\Debug\src\data.hash 
+0:00:00:00 - UTF-8 input encoding enabled
+0:00:00:00 - Passwords will be stored UTF-8 encoded in .pot file
+0:00:00:00 - Hash type: PKZIP (min-len 0, max-len 10 [worst case UTF-8] to 31 [ASCII])
+0:00:00:00 - Algorithm: 32/64
+0:00:00:00 - Will reject candidates longer than 31 bytes
+0:00:00:00 - Candidate passwords will be buffered and tried in chunks of 16384
+0:00:00:00 Proceeding with wordlist mode
+0:00:00:00 - Wordlist file: D:\My-Programs\CrackMonkeyRemastered\bin\Debug\src\strings.txt
+0:00:00:00 - memory mapping wordlist (35716672 bytes)
+0:00:00:00 - No word mangling rules
+0:00:00:00 - No stacked rules
+0:00:00:00 + Cracked datajetCOPY.jet
+0:00:00:00 Session completed
+0:00:00:00 Starting a new session
+0:00:00:00 Loaded a total of 1 password hash
+0:00:00:00 Command line: /src/john --wordlist=D:\My-Programs\CrackMonkeyRemastered\bin\Debug\src\strings.txt D:\My-Programs\CrackMonkeyRemastered\bin\Debug\src\data.hash 
+0:00:00:00 - UTF-8 input encoding enabled
+0:00:00:00 - Passwords will be stored UTF-8 encoded in .pot file
+0:00:00:00 - Hash type: PKZIP (min-len 0, max-len 10 [worst case UTF-8] to 31 [ASCII])
+0:00:00:00 - Algorithm: 32/64
+0:00:00:00 - Will reject candidates longer than 31 bytes
+0:00:00:00 - Candidate passwords will be buffered and tried in chunks of 16384
+0:00:00:00 Proceeding with wordlist mode
+0:00:00:00 - Wordlist file: D:\My-Programs\CrackMonkeyRemastered\bin\Debug\src\strings.txt
+0:00:00:00 - memory mapping wordlist (35715264 bytes)
+0:00:00:00 - No word mangling rules
+0:00:00:00 - No stacked rules
+0:00:00:00 + Cracked datajetCOPY.jet
+0:00:00:00 Session completed
+0:00:00:00 Starting a new session
+0:00:00:00 Loaded a total of 1 password hash
+0:00:00:00 Command line: /src/john --wordlist=D:\My-Programs\CrackMonkeyRemastered\bin\Debug\src\strings.txt D:\My-Programs\CrackMonkeyRemastered\bin\Debug\src\data.hash 
+0:00:00:00 - UTF-8 input encoding enabled
+0:00:00:00 - Passwords will be stored UTF-8 encoded in .pot file
+0:00:00:00 - Hash type: PKZIP (min-len 0, max-len 10 [worst case UTF-8] to 31 [ASCII])
+0:00:00:00 - Algorithm: 32/64
+0:00:00:00 - Will reject candidates longer than 31 bytes
+0:00:00:00 - Candidate passwords will be buffered and tried in chunks of 16384
+0:00:00:00 Proceeding with wordlist mode
+0:00:00:00 - Wordlist file: D:\My-Programs\CrackMonkeyRemastered\bin\Debug\src\strings.txt
+0:00:00:00 - memory mapping wordlist (36814192 bytes)
+0:00:00:00 - No word mangling rules
+0:00:00:00 - No stacked rules
+0:00:00:00 + Cracked datajetCOPY.jet
+0:00:00:00 Session completed
+0:00:00:00 Starting a new session
+0:00:00:00 Loaded a total of 1 password hash
+0:00:00:00 Command line: /src/john --wordlist=D:\My-Programs\CrackMonkeyRemastered\bin\Debug\src\strings.txt D:\My-Programs\CrackMonkeyRemastered\bin\Debug\src\data.hash 
+0:00:00:00 - UTF-8 input encoding enabled
+0:00:00:00 - Passwords will be stored UTF-8 encoded in .pot file
+0:00:00:00 - Hash type: PKZIP (min-len 0, max-len 10 [worst case UTF-8] to 31 [ASCII])
+0:00:00:00 - Algorithm: 32/64
+0:00:00:00 - Will reject candidates longer than 31 bytes
+0:00:00:00 - Candidate passwords will be buffered and tried in chunks of 16384
+0:00:00:00 Proceeding with wordlist mode
+0:00:00:00 - Wordlist file: D:\My-Programs\CrackMonkeyRemastered\bin\Debug\src\strings.txt
+0:00:00:00 - memory mapping wordlist (36817995 bytes)
+0:00:00:00 - No word mangling rules
+0:00:00:00 - No stacked rules
+0:00:00:00 + Cracked datajetCOPY.jet
+0:00:00:00 Session completed
+0:00:00:00 Starting a new session
+0:00:00:00 Loaded a total of 1 password hash
+0:00:00:00 Command line: /src/john --wordlist=D:\My-Programs\CrackMonkeyRemastered\bin\Debug\src\strings.txt D:\My-Programs\CrackMonkeyRemastered\bin\Debug\src\data.hash 
+0:00:00:00 - UTF-8 input encoding enabled
+0:00:00:00 - Passwords will be stored UTF-8 encoded in .pot file
+0:00:00:00 - Hash type: PKZIP (min-len 0, max-len 10 [worst case UTF-8] to 31 [ASCII])
+0:00:00:00 - Algorithm: 32/64
+0:00:00:00 - Will reject candidates longer than 31 bytes
+0:00:00:00 - Candidate passwords will be buffered and tried in chunks of 16384
+0:00:00:00 Proceeding with wordlist mode
+0:00:00:00 - Wordlist file: D:\My-Programs\CrackMonkeyRemastered\bin\Debug\src\strings.txt
+0:00:00:00 - memory mapping wordlist (36808994 bytes)
+0:00:00:00 - No word mangling rules
+0:00:00:00 - No stacked rules
+0:00:00:00 + Cracked datajetCOPY.jet
+0:00:00:00 Session completed
+0:00:00:00 Starting a new session
+0:00:00:00 Loaded a total of 1 password hash
+0:00:00:00 Command line: /src/john --wordlist=D:\My-Programs\CrackMonkeyRemastered\bin\Debug\src\strings.txt D:\My-Programs\CrackMonkeyRemastered\bin\Debug\src\data.hash 
+0:00:00:00 - UTF-8 input encoding enabled
+0:00:00:00 - Passwords will be stored UTF-8 encoded in .pot file
+0:00:00:00 - Hash type: PKZIP (min-len 0, max-len 10 [worst case UTF-8] to 31 [ASCII])
+0:00:00:00 - Algorithm: 32/64
+0:00:00:00 - Will reject candidates longer than 31 bytes
+0:00:00:00 - Candidate passwords will be buffered and tried in chunks of 16384
+0:00:00:00 Proceeding with wordlist mode
+0:00:00:00 - Wordlist file: D:\My-Programs\CrackMonkeyRemastered\bin\Debug\src\strings.txt
+0:00:00:00 - memory mapping wordlist (36801442 bytes)
+0:00:00:00 - No word mangling rules
+0:00:00:00 - No stacked rules
+0:00:00:00 + Cracked datajetCOPY.jet
+0:00:00:00 Session completed
+0:00:00:00 Starting a new session
+0:00:00:00 Loaded a total of 1 password hash
+0:00:00:00 Command line: /src/john --wordlist=D:\My-Programs\CrackMonkeyRemastered\bin\Debug\src\strings.txt D:\My-Programs\CrackMonkeyRemastered\bin\Debug\src\data.hash 
+0:00:00:00 - UTF-8 input encoding enabled
+0:00:00:00 - Passwords will be stored UTF-8 encoded in .pot file
+0:00:00:00 - Hash type: PKZIP (min-len 0, max-len 10 [worst case UTF-8] to 31 [ASCII])
+0:00:00:00 - Algorithm: 32/64
+0:00:00:00 - Will reject candidates longer than 31 bytes
+0:00:00:00 - Candidate passwords will be buffered and tried in chunks of 16384
+0:00:00:00 Proceeding with wordlist mode
+0:00:00:00 - Wordlist file: D:\My-Programs\CrackMonkeyRemastered\bin\Debug\src\strings.txt
+0:00:00:00 - memory mapping wordlist (36673901 bytes)
+0:00:00:00 - No word mangling rules
+0:00:00:00 - No stacked rules
+0:00:00:00 + Cracked datajetCOPY.jet
+0:00:00:00 Session completed
+0:00:00:00 Starting a new session
+0:00:00:00 Loaded a total of 1 password hash
+0:00:00:00 Command line: /src/john --wordlist=D:\My-Programs\CrackMonkeyRemastered\bin\Debug\src\strings.txt D:\My-Programs\CrackMonkeyRemastered\bin\Debug\src\data.hash 
+0:00:00:00 - UTF-8 input encoding enabled
+0:00:00:00 - Passwords will be stored UTF-8 encoded in .pot file
+0:00:00:00 - Hash type: PKZIP (min-len 0, max-len 10 [worst case UTF-8] to 31 [ASCII])
+0:00:00:00 - Algorithm: 32/64
+0:00:00:00 - Will reject candidates longer than 31 bytes
+0:00:00:00 - Candidate passwords will be buffered and tried in chunks of 16384
+0:00:00:00 Proceeding with wordlist mode
+0:00:00:00 - Wordlist file: D:\My-Programs\CrackMonkeyRemastered\bin\Debug\src\strings.txt
+0:00:00:00 - memory mapping wordlist (36676487 bytes)
+0:00:00:00 - No word mangling rules
+0:00:00:00 - No stacked rules
+0:00:00:00 + Cracked datajetCOPY.jet
+0:00:00:00 Session completed
+0:00:00:00 Starting a new session
+0:00:00:00 Loaded a total of 1 password hash
+0:00:00:00 Command line: /src/john --wordlist=D:\My-Programs\CrackMonkeyRemastered\bin\Debug\src\strings.txt D:\My-Programs\CrackMonkeyRemastered\bin\Debug\src\data.hash 
+0:00:00:00 - UTF-8 input encoding enabled
+0:00:00:00 - Passwords will be stored UTF-8 encoded in .pot file
+0:00:00:00 - Hash type: PKZIP (min-len 0, max-len 10 [worst case UTF-8] to 31 [ASCII])
+0:00:00:00 - Algorithm: 32/64
+0:00:00:00 - Will reject candidates longer than 31 bytes
+0:00:00:00 - Candidate passwords will be buffered and tried in chunks of 16384
+0:00:00:00 Proceeding with wordlist mode
+0:00:00:00 - Wordlist file: D:\My-Programs\CrackMonkeyRemastered\bin\Debug\src\strings.txt
+0:00:00:00 - memory mapping wordlist (36673914 bytes)
+0:00:00:00 - No word mangling rules
+0:00:00:00 - No stacked rules
+0:00:00:00 + Cracked datajetCOPY.jet
+0:00:00:00 Session completed
+0:00:00:00 Starting a new session
+0:00:00:00 Loaded a total of 1 password hash
+0:00:00:00 Command line: /src/john --wordlist=D:\My-Programs\CrackMonkeyRemastered\bin\Debug\src\strings.txt D:\My-Programs\CrackMonkeyRemastered\bin\Debug\src\data.hash 
+0:00:00:00 - UTF-8 input encoding enabled
+0:00:00:00 - Passwords will be stored UTF-8 encoded in .pot file
+0:00:00:00 - Hash type: PKZIP (min-len 0, max-len 10 [worst case UTF-8] to 31 [ASCII])
+0:00:00:00 - Algorithm: 32/64
+0:00:00:00 - Will reject candidates longer than 31 bytes
+0:00:00:00 - Candidate passwords will be buffered and tried in chunks of 16384
+0:00:00:00 Proceeding with wordlist mode
+0:00:00:00 - Wordlist file: D:\My-Programs\CrackMonkeyRemastered\bin\Debug\src\strings.txt
+0:00:00:00 - memory mapping wordlist (36675945 bytes)
+0:00:00:00 - No word mangling rules
+0:00:00:00 - No stacked rules
+0:00:00:00 + Cracked datajetCOPY.jet
+0:00:00:00 Session completed
+0:00:00:00 Starting a new session
+0:00:00:00 Loaded a total of 1 password hash
+0:00:00:00 Command line: /src/john --wordlist=D:\My-Programs\CrackMonkeyRemastered\bin\Debug\src\strings.txt D:\My-Programs\CrackMonkeyRemastered\bin\Debug\src\data.hash 
+0:00:00:00 - UTF-8 input encoding enabled
+0:00:00:00 - Passwords will be stored UTF-8 encoded in .pot file
+0:00:00:00 - Hash type: PKZIP (min-len 0, max-len 10 [worst case UTF-8] to 31 [ASCII])
+0:00:00:00 - Algorithm: 32/64
+0:00:00:00 - Will reject candidates longer than 31 bytes
+0:00:00:00 - Candidate passwords will be buffered and tried in chunks of 16384
+0:00:00:00 Proceeding with wordlist mode
+0:00:00:00 - Wordlist file: D:\My-Programs\CrackMonkeyRemastered\bin\Debug\src\strings.txt
+0:00:00:00 - memory mapping wordlist (36669594 bytes)
+0:00:00:00 - No word mangling rules
+0:00:00:00 - No stacked rules
+0:00:00:00 + Cracked datajetCOPY.jet
+0:00:00:00 Session completed
+0:00:00:00 Starting a new session
+0:00:00:00 Loaded a total of 1 password hash
+0:00:00:00 Command line: /src/john --wordlist=D:\My-Programs\CrackMonkeyRemastered\bin\Debug\src\strings.txt D:\My-Programs\CrackMonkeyRemastered\bin\Debug\src\data.hash 
+0:00:00:00 - UTF-8 input encoding enabled
+0:00:00:00 - Passwords will be stored UTF-8 encoded in .pot file
+0:00:00:00 - Hash type: PKZIP (min-len 0, max-len 10 [worst case UTF-8] to 31 [ASCII])
+0:00:00:00 - Algorithm: 32/64
+0:00:00:00 - Will reject candidates longer than 31 bytes
+0:00:00:00 - Candidate passwords will be buffered and tried in chunks of 16384
+0:00:00:00 Proceeding with wordlist mode
+0:00:00:00 - Wordlist file: D:\My-Programs\CrackMonkeyRemastered\bin\Debug\src\strings.txt
+0:00:00:00 - memory mapping wordlist (36726608 bytes)
+0:00:00:00 - No word mangling rules
+0:00:00:00 - No stacked rules
+0:00:00:00 + Cracked datajetCOPY.jet
+0:00:00:00 Session completed
+0:00:00:00 Starting a new session
+0:00:00:00 Loaded a total of 1 password hash
+0:00:00:00 Command line: /src/john --wordlist=D:\My-Programs\CrackMonkeyRemastered\bin\Debug\src\strings.txt D:\My-Programs\CrackMonkeyRemastered\bin\Debug\src\data.hash 
+0:00:00:00 - UTF-8 input encoding enabled
+0:00:00:00 - Passwords will be stored UTF-8 encoded in .pot file
+0:00:00:00 - Hash type: PKZIP (min-len 0, max-len 10 [worst case UTF-8] to 31 [ASCII])
+0:00:00:00 - Algorithm: 32/64
+0:00:00:00 - Will reject candidates longer than 31 bytes
+0:00:00:00 - Candidate passwords will be buffered and tried in chunks of 16384
+0:00:00:00 Proceeding with wordlist mode
+0:00:00:00 - Wordlist file: D:\My-Programs\CrackMonkeyRemastered\bin\Debug\src\strings.txt
+0:00:00:00 - memory mapping wordlist (33923528 bytes)
+0:00:00:00 - No word mangling rules
+0:00:00:00 - No stacked rules
+0:00:00:00 + Cracked datajetCOPY.jet
+0:00:00:00 Session completed
+0:00:00:00 Starting a new session
+0:00:00:00 Loaded a total of 1 password hash
+0:00:00:00 Command line: /src/john --wordlist=D:\My-Programs\CrackMonkeyRemastered\bin\Debug\src\strings.txt D:\My-Programs\CrackMonkeyRemastered\bin\Debug\src\data.hash 
+0:00:00:00 - UTF-8 input encoding enabled
+0:00:00:00 - Passwords will be stored UTF-8 encoded in .pot file
+0:00:00:00 - Hash type: PKZIP (min-len 0, max-len 10 [worst case UTF-8] to 31 [ASCII])
+0:00:00:00 - Algorithm: 32/64
+0:00:00:00 - Will reject candidates longer than 31 bytes
+0:00:00:00 - Candidate passwords will be buffered and tried in chunks of 16384
+0:00:00:00 Proceeding with wordlist mode
+0:00:00:00 - Wordlist file: D:\My-Programs\CrackMonkeyRemastered\bin\Debug\src\strings.txt
+0:00:00:00 - memory mapping wordlist (35449981 bytes)
+0:00:00:00 - No word mangling rules
+0:00:00:00 - No stacked rules
+0:00:00:00 + Cracked datajetCOPY.jet
+0:00:00:00 Session completed
+0:00:00:00 Starting a new session
+0:00:00:00 Loaded a total of 1 password hash
+0:00:00:00 Command line: /src/john --wordlist=D:\My-Programs\CrackMonkeyRemastered\bin\Debug\src\strings.txt D:\My-Programs\CrackMonkeyRemastered\bin\Debug\src\data.hash 
+0:00:00:00 - UTF-8 input encoding enabled
+0:00:00:00 - Passwords will be stored UTF-8 encoded in .pot file
+0:00:00:00 - Hash type: PKZIP (min-len 0, max-len 10 [worst case UTF-8] to 31 [ASCII])
+0:00:00:00 - Algorithm: 32/64
+0:00:00:00 - Will reject candidates longer than 31 bytes
+0:00:00:00 - Candidate passwords will be buffered and tried in chunks of 16384
+0:00:00:00 Proceeding with wordlist mode
+0:00:00:00 - Wordlist file: D:\My-Programs\CrackMonkeyRemastered\bin\Debug\src\strings.txt
+0:00:00:00 - memory mapping wordlist (35460332 bytes)
+0:00:00:00 - No word mangling rules
+0:00:00:00 - No stacked rules
+0:00:00:00 + Cracked datajetCOPY.jet
+0:00:00:00 Session completed
+0:00:00:00 Starting a new session
+0:00:00:00 Loaded a total of 1 password hash
+0:00:00:00 Command line: /src/john --wordlist=D:\My-Programs\CrackMonkeyRemastered\bin\Debug\src\strings.txt D:\My-Programs\CrackMonkeyRemastered\bin\Debug\src\data.hash 
+0:00:00:00 - UTF-8 input encoding enabled
+0:00:00:00 - Passwords will be stored UTF-8 encoded in .pot file
+0:00:00:00 - Hash type: PKZIP (min-len 0, max-len 10 [worst case UTF-8] to 31 [ASCII])
+0:00:00:00 - Algorithm: 32/64
+0:00:00:00 - Will reject candidates longer than 31 bytes
+0:00:00:00 - Candidate passwords will be buffered and tried in chunks of 16384
+0:00:00:00 Proceeding with wordlist mode
+0:00:00:00 - Wordlist file: D:\My-Programs\CrackMonkeyRemastered\bin\Debug\src\strings.txt
+0:00:00:00 - memory mapping wordlist (35467081 bytes)
+0:00:00:00 - No word mangling rules
+0:00:00:00 - No stacked rules
+0:00:00:00 + Cracked datajetCOPY.jet
+0:00:00:00 Session completed
+0:00:00:00 Starting a new session
+0:00:00:00 Loaded a total of 1 password hash
+0:00:00:00 Command line: /src/john --wordlist=D:\My-Programs\CrackMonkeyRemastered\bin\Debug\src\strings.txt D:\My-Programs\CrackMonkeyRemastered\bin\Debug\src\data.hash 
+0:00:00:00 - UTF-8 input encoding enabled
+0:00:00:00 - Passwords will be stored UTF-8 encoded in .pot file
+0:00:00:00 - Hash type: PKZIP (min-len 0, max-len 10 [worst case UTF-8] to 31 [ASCII])
+0:00:00:00 - Algorithm: 32/64
+0:00:00:00 - Will reject candidates longer than 31 bytes
+0:00:00:00 - Candidate passwords will be buffered and tried in chunks of 16384
+0:00:00:00 Proceeding with wordlist mode
+0:00:00:00 - Wordlist file: D:\My-Programs\CrackMonkeyRemastered\bin\Debug\src\strings.txt
+0:00:00:00 - memory mapping wordlist (35475492 bytes)
+0:00:00:00 - No word mangling rules
+0:00:00:00 - No stacked rules
+0:00:00:00 + Cracked datajetCOPY.jet
+0:00:00:00 Session completed

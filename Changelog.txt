@@ -1,5 +1,24 @@
 
-Update v1.2 - OTA Update Support! - 05/31/2024
+Update v1.3 - Complete UI Redesign! - 6/1/2024
+
+
+Changelog:
+
+• Redesigned the whole UI using the 'ReaLTaiizor' WinForms kit by Taiizor
+	- App now looks way better, cleaner, and more modern
+	- Huge thanks to Taiizor for making an amazing kit and it's all free and open source!
+	  ^^ Show them support: https://github.com/Taiizor/ReaLTaiizor/
+	  
+• Small QOL improvements
+	- Added some QOL improvements to the code to make it more easier to read
+	- I have also fixed and improved some logic to make the program run better and
+	  show additional errors for diagnostics
+
+
+If there's any issues or any bugs you would like to report, please email: btdbugreports@gmail.com
+---------------------------------------------------------------------------------------------------
+
+Update v1.2 - OTA Update Support! - 5/31/2024
 
 
 Changelog:
@@ -18,7 +37,7 @@ Changelog:
 If there's any issues or any bugs you would like to report, please email: btdbugreports@gmail.com
 ---------------------------------------------------------------------------------------------------
 
-Update v1.1 - WinStore Support! - 05/25/2024
+Update v1.1 - WinStore Support! - 5/25/2024
 
 
 Changelog:
@@ -29,7 +48,7 @@ Changelog:
 
 If there's any issues or any bugs you would like to report, please email: btdbugreports@gmail.com
 ---------------------------------------------------------------------------------------------------
-Initial Release (v1.0) - 05/24/2024
+Initial Release (v1.0) - 5/24/2024
 
 This is the initial release for CrackMonkey!
 

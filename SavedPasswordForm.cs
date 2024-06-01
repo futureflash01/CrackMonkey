@@ -1,21 +1,19 @@
-﻿using System;
-using System.Collections.Generic;
-using System.ComponentModel;
-using System.Data;
-using System.Drawing;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+﻿using CrackMonkeyRemastered.Properties;
+using System;
 using System.Windows.Forms;
-using CrackMonkeyRemastered.Properties;
+using ReaLTaiizor.Controls;
+using ReaLTaiizor.Forms;
+using System.Drawing;
 
 namespace CrackMonkeyRemastered
 {
-    
-    public partial class SavedPasswordForm : Form
+
+    public partial class SavedPasswordForm : MaterialForm
     {
+        // Declare necessary public variables
         Settings crackMonkeySettings = new Settings();
-        private Form CrackMonkeyForm = new CrackMonkeyForm();
+        Form CrackMonkeyForm = new CrackMonkeyForm();
+        Size formSize = new Size(356, 316);
 
         public SavedPasswordForm()
         {
@@ -24,26 +22,33 @@ namespace CrackMonkeyRemastered
 
         private void SavedPasswordForm_Load(object sender, EventArgs e)
         {
-            if (crackMonkeySettings.btdPassword.Length < 4)
-            {
-                if (CrackMonkeyForm.IsDisposed)
-                {
-                    this.Hide();
-                    CrackMonkeyForm = new CrackMonkeyForm();
-                    CrackMonkeyForm.Show();
-                }
+            this.Size = formSize;
 
-                else
-                {
-                    this.Hide();
-                    CrackMonkeyForm.Show();
-                }
+            if (crackMonkeySettings.btdPassword.Length <= 15 || crackMonkeySettings.btdPassword.Length >= 17)
+            {
+                string mBoxText = "Error extracting password! To avoid any issues,\r\nwhen the game launches, wait until\r\nthe 'Ninja Kiwi' logo appears then click 'Start'\r\n\r\nIf you keep getting this error, please send me an email at:\r\nbtdbugreports@gmail.com\r\n";
+                MaterialMessageBox.Show(mBoxText, "Password Extract Error!", MessageBoxButtons.OK, false, MaterialFlexibleForm.ButtonsPosition.Center);
+
+                crackMonkeySettings.Reset();
+                crackMonkeySettings.Save();
+                Application.Exit();
             }
+
             else
             {
-                passwordTextBox.Text = crackMonkeySettings.btdPassword;
+                savedPasswordLabel.Text = crackMonkeySettings.btdPassword;
                 gameVersionLabel2.Text = crackMonkeySettings.btdVersion;
             }
+
+            //else
+            //{
+            //    string mBoxText = "Error extracting password! To avoid any issues,\r\nwhen the game launches, wait until\r\nthe 'Ninja Kiwi' logo appears then click 'Start'\r\n\r\nIf you keep getting this error, please send me an email at:\r\nbtdbugreports@gmail.com\r\n";
+            //    MaterialMessageBox.Show(mBoxText, "Password Extract Error!", MessageBoxButtons.OK, false, MaterialFlexibleForm.ButtonsPosition.Center);
+
+            //    crackMonkeySettings.Reset();
+            //    crackMonkeySettings.Save();
+            //    Application.Exit();
+            //}
         }
 
         private void continueButton_Click(object sender, EventArgs e)
@@ -73,7 +78,7 @@ namespace CrackMonkeyRemastered
 
         private void copyButton_Click(object sender, EventArgs e)
         {
-            Clipboard.SetText(passwordTextBox.Text);
+            Clipboard.SetText(savedPasswordLabel.Text);
         }
     }
 }
