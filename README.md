@@ -24,7 +24,8 @@ By the way, doesn't matter which app you launch first. The program will detect i
 ## Credits
 This program was made possible using the following programs:
 * OpenWall's 'John the Ripper': https://www.openwall.com/john/
-* glmcdona's 'strings2': https://github.com/glmcdona/strings2
+* glmcdona's 'strings2': https://github.com/glmcdona/strings2/
+* Taiizor's 'ReaLTaiizor' WinForms UI Kit: https://github.com/Taiizor/ReaLTaiizor/
 
 -----------------------------------------------------------------------------------------------------------------------------
 ## READ BEFORE COMPILING:
